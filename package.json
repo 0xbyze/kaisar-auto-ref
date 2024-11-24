@@ -1,0 +1,20 @@
+{
+  "name": "kaisar-network-autoref",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_OPTIONS=--no-deprecation node --trace-deprecation index.js",
+    "split": "NODE_OPTIONS=--no-deprecation node --trace-deprecation split.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.2.0",
+    "cheerio": "^1.0.0",
+    "colors": "^1.4.0",
+    "tempmail.lol": "^4.1.0",
+    "undici": "^6.21.0"
+  }
+}
