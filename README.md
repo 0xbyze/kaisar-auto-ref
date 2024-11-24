@@ -1,6 +1,6 @@
 # Kaisar Network Auto Ref
 
-Automatic referral script for Kaisar using captcha solver and proxies.
+Automatic referral script for Kaisar Network.
 
 ## Installation
 
